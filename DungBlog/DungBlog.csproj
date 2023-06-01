@@ -16,4 +16,15 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\Admin\Fashion\" />
+    <Folder Include="Controllers\Admin\Game\" />
+    <Folder Include="Controllers\Admin\Food\" />
+    <Folder Include="Controllers\Admin\Technology\" />
+    <Folder Include="Controllers\Admin\Travel\" />
+    <Folder Include="Controllers\Admin\Sport\" />
+    <Folder Include="Controllers\Admin\Status\" />
+    <Folder Include="Views\Admin\" />
+  </ItemGroup>
+
 </Project>
