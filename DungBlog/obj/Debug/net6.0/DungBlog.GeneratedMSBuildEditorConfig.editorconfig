@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DungBlog
 build_property.RootNamespace = DungBlog
-build_property.ProjectDir = F:\CodingDocument\DungBlog\DungBlog\
+build_property.ProjectDir = F:\My Project\DungBlog\DungBlog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\CodingDocument\DungBlog\DungBlog
+build_property.MSBuildProjectDirectory = F:\My Project\DungBlog\DungBlog
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/CodingDocument/DungBlog/DungBlog/Views/Users/homepage.cshtml]
+[F:/My Project/DungBlog/DungBlog/Views/Users/homepage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcaG9tZXBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -3765,11 +3765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\CodingDocument\\DungBlog\\DungBlog\\DungBlog.csproj",
+      "projectUniqueName": "F:\\My Project\\DungBlog\\DungBlog\\DungBlog.csproj",
       "projectName": "DungBlog",
-      "projectPath": "F:\\CodingDocument\\DungBlog\\DungBlog\\DungBlog.csproj",
+      "projectPath": "F:\\My Project\\DungBlog\\DungBlog\\DungBlog.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\CodingDocument\\DungBlog\\DungBlog\\obj\\",
+      "outputPath": "F:\\My Project\\DungBlog\\DungBlog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
