@@ -10,11 +10,11 @@
 - CRUD Status.
 - CRUD themes (Fashion, Food, Game, Sport, Status, Technology, Travel.
 2. Users:
-- View the homepage has many status where admin write.
-- View all the themes where admin write.
+- View the homepage has many status where admin post.
+- View all the themes where admin post.
 
 *** Plan new upgrades:
 - Users can log in and CRUD their profile like Admin.
 - Users can search another users.
 - Everyone can comment on status.
-- And many news upgrades in next version
+- And many new upgrades in next version
